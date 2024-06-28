@@ -15,6 +15,12 @@ conda activate gsloc
 ```
 
 2. install pytorch and other dependencies.
+for cuda116
+```
+pip install torch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 --index-url https://download.pytorch.org/whl/cu116
+pip install -r requirements.txt 
+```
+for cu11.8
 ```
 pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt
