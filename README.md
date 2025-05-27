@@ -36,7 +36,7 @@ pip install submodules/simple-knn/
 ### Acknowledgement
 
 ```bibtex
-@inproceedings{jiao2025litevloc,
+@inproceedings{cheng2025logs,
   title = {LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images},
   author = {Cheng, Yuzhou and Jiao, Jianhao and Wang, Yue and Kanoulas, Dimitrios},
   booktitle = {International Conference on Robotics and Automation (ICRA)},
