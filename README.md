@@ -1,4 +1,5 @@
-# gs_localization
+## LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images
+Accepted by ICRA2025
 
 # 1. Installation
 ## Clone this repository.
