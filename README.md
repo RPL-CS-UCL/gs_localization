@@ -1,5 +1,7 @@
-## LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images
-Accepted by ICRA2025
+## LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images  
+Accepted by ICRA 2025.  
+🔗 [Project Website](https://yuzhoucheng66.github.io/logs.github.io/)
+
 
 # 1. Installation
 ## Clone this repository.
@@ -37,22 +39,26 @@ pip install submodules/simple-knn/
 ## LoGS Pipeline
 Here is how LoGS re-localizes the scenes we experimented in our paper, e.g. 7-scenes (dslam ground truth and full training images). You need to run four python files one by one.
 
-1. ```
+1. 
+```
 python gs_localization/process/train_test_split_7scenes_full_dslam.py
 ``` 
 This processes the 7-scenes dataset.
 
-2. ```
+2. 
+```
 python gs_localization/sfm/7scenes_sfm_full_dslam.py
 ``` 
 This gives the SfM point could of training images and rough initial pose of testing images through PnP-RANSAC.
 
-3. ```
+3. 
+```
 python gs_localization/gs/7scenes_gs_full_dslam.py" 
 ```
 This trains the 3DGS map of training images.
 
-4. ```
+4. 
+```
 python gs_localization/pipelines/7scenes_localize_full_dslam.py
 ``` 
 This refines the poses with gradient decent and we are done.
