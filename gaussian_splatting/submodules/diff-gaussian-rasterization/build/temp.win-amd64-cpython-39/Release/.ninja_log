@@ -1,0 +1,11 @@
+# ninja log v6
+8	3688	7459900019249005	D:/gs-test-env/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/cuda_rasterizer/forward.obj	76ef1fd62cf3aafb
+6	3746	7459900019249005	D:/gs-test-env/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/cuda_rasterizer/backward.obj	77c6ef9e79924f98
+12	6765	7459900019249005	D:/gs-test-env/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/cuda_rasterizer/rasterizer_impl.obj	2f6fd2ab72f3928d
+14	8432	7459900019249005	D:/gs-test-env/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/ext.obj	ea2d63662fd9b8c4
+16	23057	7459900019249005	D:/gs-test-env/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/rasterize_points.obj	c0a48e12ed7fbf68
+15	4084	7468522029223763	D:/gs-localization/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/cuda_rasterizer/backward.obj	1fa7e1b38c533a84
+18	4085	7468522029223763	D:/gs-localization/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/cuda_rasterizer/forward.obj	efe7242ca90f45da
+19	7230	7468522029223763	D:/gs-localization/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/cuda_rasterizer/rasterizer_impl.obj	948e46143d0116a0
+21	8785	7468522029223763	D:/gs-localization/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/ext.obj	ac732c5dae87968d
+28	24017	7468522029379186	D:/gs-localization/gaussian_splatting/submodules/diff-gaussian-rasterization/build/temp.win-amd64-cpython-39/Release/rasterize_points.obj	9255e43820983c0f

@@ -1,0 +1,7 @@
+# ninja log v6
+8	11066	7459899420485417	D:/gs-test-env/gaussian_splatting/submodules/simple-knn/build/temp.win-amd64-cpython-39/Release/ext.obj	b4f948c1a7f70a0c
+12	12931	7459899420485417	D:/gs-test-env/gaussian_splatting/submodules/simple-knn/build/temp.win-amd64-cpython-39/Release/simple_knn.obj	334e792f81d35801
+14	26885	7459899420485417	D:/gs-test-env/gaussian_splatting/submodules/simple-knn/build/temp.win-amd64-cpython-39/Release/spatial.obj	1882a4e688bcf666
+18	7287	7468522532314386	D:/gs-localization/gaussian_splatting/submodules/simple-knn/build/temp.win-amd64-cpython-39/Release/ext.obj	63e1d3c7d4d393dc
+21	7762	7468522532314386	D:/gs-localization/gaussian_splatting/submodules/simple-knn/build/temp.win-amd64-cpython-39/Release/simple_knn.obj	f84bc84c8a4bbaa3
+24	21471	7468522532314386	D:/gs-localization/gaussian_splatting/submodules/simple-knn/build/temp.win-amd64-cpython-39/Release/spatial.obj	e8dae77e60f5aba5
