@@ -1,1 +1,0 @@
-Namespace(sh_degree=3, source_path='/home/yzcheng/data/db/playroom', model_path='./output/c4567d7a-1', images='images', dataset='', w_mask=False, resolution=-1, white_background=False, data_device='cuda', eval=False, use_decoupled_appearance=False)
