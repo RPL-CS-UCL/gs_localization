@@ -51,7 +51,7 @@ python gs_localization/sfm/7scenes_sfm_full_dslam.py
 
 3. train a 3DGS map of training images.
 ```
-python gs_localization/gs/7scenes_gs_full_dslam.py" 
+python gs_localization/gs/7scenes_gs_full_dslam.py
 ```
 
 4. refines poses with gradient decent and we are done.
