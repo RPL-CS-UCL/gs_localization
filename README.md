@@ -35,7 +35,12 @@ pip install -r requirements.txt
 pip install submodules/diff-gaussian-rasterization
 pip install submodules/simple-knn/
 ```
-4. datasets directory structure
+# 2. Dataset Directory Structure
+
+The following structure shows how the dataset folder is organized.  
+Please ensure your local `datasets/` directory follows this layout:
+
+```
 gs-localization/
 └── datasets/
     ├── 7scenes/
@@ -49,14 +54,15 @@ gs-localization/
     │   ├── depth/
     │   ├── 7scenes_densevald_retrieval_top_10/
     │   ├── 7scenes_sfm_triangulated/
-    │   └── train_fewshot_all           # metadata file
+    │   └── train_fewshot_all
     ├── 7scenes_additional/
     ├── 360_v2/
     ├── cambridge/
     ├── cambridge_additional/
     └── nerf_llff_data/
+```
 
-## LoGS Pipeline
+# 3. LoGS Pipeline
 Here is how LoGS re-localizes the scenes we experimented in our paper, e.g. 7-scenes (dslam ground truth and full training images). You need to run four python files one by one.
 
 1. pre-process the 7-scenes dataset.
