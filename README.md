@@ -45,17 +45,25 @@ gs-localization/
 └── datasets/
     ├── 7scenes/
     │   ├── chess/
+    │       └── seq-01/
+    │           ├── frame-000000.color.png
+    │           ├── ...
+    │           └── frame-000XXX.color.png
     │   ├── fire/
     │   ├── heads/
     │   ├── office/
     │   ├── pumpkin/
     │   ├── redkitchen/
     │   ├── stairs/
-    │   ├── depth/
     │   ├── 7scenes_densevald_retrieval_top_10/
     │   ├── 7scenes_sfm_triangulated/
     │   └── train_fewshot_all
     ├── 7scenes_additional/
+    │   └── chess/
+    │       └── seq-01/
+    │           ├── frame-000000.depth_cali.png
+    │           ├── ...
+    │           └── frame-000XXX.depth_cali.png
     ├── 360_v2/
     ├── cambridge/
     ├── cambridge_additional/
