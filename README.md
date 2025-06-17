@@ -37,8 +37,7 @@ pip install submodules/simple-knn/
 ```
 # 2. Dataset Directory Structure
 
-The following structure shows how the dataset folder is organized.  
-Please ensure your local `datasets/` directory follows this layout:
+The following structure shows how the dataset folder is organized. Please ensure your local `datasets/` directory follows this layout:
 
 ```
 gs-localization/
