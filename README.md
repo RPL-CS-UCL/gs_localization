@@ -6,7 +6,6 @@ Accepted by ICRA 2025.  🔗 [Project Website](https://yuzhoucheng66.github.io/l
 # 1. Installation
 ## Clone this repository.
 ```
-
 git clone https://github.com/RPL-CS-UCL/gs_localization.git --recursive
 ```
 
