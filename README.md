@@ -1,6 +1,7 @@
 ## LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images  
 Accepted by ICRA 2025.  
 🔗 [Project Website](https://yuzhoucheng66.github.io/logs.github.io/)
+![Teaser](https://raw.githubusercontent.com/YuzhouCheng66/logs.github.io/main/assets/teaser.png)
 
 
 # 1. Installation
