@@ -62,9 +62,9 @@ gs-localization/
     │           ├── frame-000000.depth_cali.png
     │           ├── ...
     │           └── frame-000XXX.depth_cali.png
-    ├── 360_v2/
     ├── cambridge/
     ├── cambridge_additional/
+    ├── 360_v2/
     └── nerf_llff_data/
 ```
 
